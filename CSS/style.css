@@ -42,8 +42,15 @@ main{
     
 }
 
-#Logo{
-    width: 70px;
+.Orange{
+    background-color: orange;
+    padding: 8px 7px;
+    color: white;
+    
+}
+
+.Elenco{
+    margin-bottom: 60px;
 }
 
 .Lista{
@@ -56,11 +63,39 @@ main{
 
 .Lunga{
     margin-top: 3px;
-    height: 70%;
+    height: 75%;
+}
+
+.Viola{
+    background-color: violet;
+    padding: 8px 7px;
+    color: white;
+}
+
+.acqua{
+    background-color: wheat;
+    padding: 8px 7px;
+    color: white
+}
+
+.Rosa{
+    background-color: pink;
+    padding: 8px 7px;
+    color: white;
+}
+
+.Verde{
+    background-color: green;
+    padding: 8px 7px;
+    color: white;
 }
 
 #Pulsante{
     border: lightgrey solid 1px;
     padding: 7px 7px;
     color: gray;
+}
+
+#Logo{
+    width: 70px;
 }
