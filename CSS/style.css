@@ -13,6 +13,18 @@ h1{
     font-size: 40px;
 }
 
+h2{
+    font-family: "Roboto";
+    color: #484e50;
+}
+
+h3{
+    font-family: "Roboto";
+    color: #484e50;
+    display: inline-block;
+    margin: 10px;
+}
+
 header{
     margin:40px;
 }
@@ -34,12 +46,17 @@ main{
     width: 70px;
 }
 
-#Lista{
+.Lista{
     background-color: white;
     margin-left: 20%;
     width: 59%;
     height: 70px;
     padding:2% 5%;
+}
+
+.Lunga{
+    margin-top: 3px;
+    height: 70%;
 }
 
 #Pulsante{
